@@ -33,7 +33,7 @@
 确保您的 Python 环境中安装了必要的依赖项：
 ```bash
 pip install -r requirements.txt
-
+```
 
 **2. 第一阶段：特征提取**
 
@@ -56,6 +56,7 @@ python script_stage1_extract.py
 **内存友好**：无需一次性加载全量数据，内存占用恒定。
 
 本项目适用于遥感深度学习样本库构建及土地利用分类精度验证。
+
 
 
 
